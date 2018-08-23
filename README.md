@@ -1,6 +1,6 @@
 # UCL Mars Rover Autonomous Driving System Hardware and Software 
-Contributors: Chenxi Zhang (UCL) Yongkai L
-Using Husky Robot for simulator.
+Contributors: Chenxi Zhang (UCL) 
+Yongkai Li (Fuzhou University, China)
 
 ## Discription
 
