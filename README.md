@@ -1,5 +1,5 @@
 # UCL Mars Rover Autonomous Driving System Hardware and Software 
-Contributors: Chenxi Zhang (UCL) 
+Contributors: Jingyao Cui (UCL), Chenxi Zhang (UCL) 
 Yongkai Li (Fuzhou University, China)
 
 ## Discription
